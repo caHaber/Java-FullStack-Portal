@@ -1,0 +1,10 @@
+tab/db/DBHelper.class
+tab/BIPortalApplication.class
+tab/core/Card.class
+tab/views/HomePageView.class
+tab/health/TemplateHealthCheck.class
+tab/resources/HelloWorldResource.class
+tab/api/Saying.class
+tab/core/CardsMapper.class
+tab/BIPortalConfiguration.class
+tab/db/CardDAO.class
