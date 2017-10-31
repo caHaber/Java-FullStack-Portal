@@ -9,10 +9,10 @@ database:
   user: TABPORT
 
   # the password
-  password: t8bp0rt
+  password: XXXXXXXX
 
-  # the JDBC URL
-  url: jdbc:oracle:thin:@insightdbdev.usfca.edu:1521:CERT
+  # the JDBC URL using the thin driver jdbc:oracle:thin:@host:DBPORT
+  url: XXXXXXXX
 
   # any properties specific to your JDBC driver:
   properties:
